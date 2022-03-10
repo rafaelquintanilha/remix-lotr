@@ -2,6 +2,10 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+## LotR API
+
+Get your API key from [https://the-one-api.dev](https://the-one-api.dev).
+
 ## Development
 
 From your terminal:
